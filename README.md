@@ -38,22 +38,22 @@ Tutti i software necessari saranno introdotti e installati durante il corso.
 Di seguito il programma indicativo delle 4 giornate di corso:
 
 1. Giorno 1 ore 14-17:
-  1. Presentazione generale del Raspberry PI: hardware, comunità Raspberry PI e risorse disponibili online.
-  2. Installazione di Raspian.
-  3. Configurazione base.
-  4. Connettività e configurazione delle interfacce di rete.
-  5. Semplici attività tramite VNC oppure tramite SSH.
+    1. Presentazione generale del Raspberry PI: hardware, comunità Raspberry PI e risorse disponibili online.
+    2. Installazione di Raspian.
+    3. Configurazione base.
+    4. Connettività e configurazione delle interfacce di rete.
+    5. Semplici attività tramite VNC oppure tramite SSH.
 2. Giorno 2 ore 14-17:
-  1. Il sistema operativo Raspian e la shell Bash.
-  2. Come si può utiizzare Raspberry PI nella didattica delle materie di Informatica e Smartrobot?
-  3. Gli ambienti di sviluppo.
-  4. L&#39;interfaccia GPIO.
-  5. Un semplice programma in Scratch/C/Python che utilizza gli ingressi e le uscite digitali.
-  6. Integrare il Rasperry PI in classe.
+    1. Il sistema operativo Raspian e la shell Bash.
+    2. Come si può utiizzare Raspberry PI nella didattica delle materie di Informatica e Smartrobot?
+    3. Gli ambienti di sviluppo.
+    4. L&#39;interfaccia GPIO.
+    5. Un semplice programma in Scratch/C/Python che utilizza gli ingressi e le uscite digitali.
+    6. Integrare il Rasperry PI in classe.
 3. Giorno 3 ore 14-17:
-  1. Esercitazione 1: una applicazione di visione computerizzata e realtà aumentata, connessa ad un database Sqlite / un videogioco interattivo scritto in Scratch.
+    1. Esercitazione 1: una applicazione di visione computerizzata e realtà aumentata, connessa ad un database Sqlite / un videogioco interattivo scritto in Scratch.
 4. Giorno 4 ore 14-17:
-  1. Esercitazione 2: un robot dotato di sensori capace di muoversi.
+    1. Esercitazione 2: un robot dotato di sensori capace di muoversi.
 
 # Metodologie didattiche proposte
 
