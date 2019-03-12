@@ -1,6 +1,6 @@
 
 
-# **Corso &quot;Robotica avanzata: utilizzo del Raspberry PI&quot;**
+# **Corso &quot;Robotica avanzata: Raspberry PI e Python &quot;**
 
 # Programma proposto
 
