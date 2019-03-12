@@ -61,7 +61,7 @@ Il corso proposto ha tra le finalità quella di fornire una formazione operativa
 
 Il docente produrrà slide, software e materiali interattivi che saranno forniti ai discenti durante il corso e che saranno sempre reperibili sulla piattaforma Github. Verrà fornita anche una formazione base sulla piattaforma Github intesa come piattaforma per lo sviluppo dei progetti, sia per docenti che per gli studenti.
 
-Durante il corso ogni docente sarà in possesso di una propria scheda SD ( \&gt;=8Gb ) sulla quale installerà il sistema operativo e tutte le applicazioni necessarie a svolgere le esperienze proposte in ogni lezione. Al termine del corso, ogni discente avrà la sua scheda SD pronta per poter essere clonata e riutilizzata in nuove esperienze e attività didattiche.
+Durante il corso ogni docente sarà in possesso di una propria scheda microSD (almeno 8Gb di capacità) sulla quale installerà il sistema operativo e tutte le applicazioni necessarie a svolgere le esperienze proposte in ogni lezione. Al termine del corso, ogni discente avrà la sua scheda SD pronta per poter essere clonata e riutilizzata in nuove esperienze e attività didattiche.
 
 Circa il 50% delle ore del corso saranno dedicate ad esercitazioni pratiche che ogni discente svolgerà con il supporto del formatore.
 
