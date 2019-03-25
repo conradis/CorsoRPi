@@ -1,0 +1,1 @@
+jupyter nbconvert Lezioni_Python.ipynb --to slides --post serve
