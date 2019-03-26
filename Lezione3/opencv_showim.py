@@ -14,3 +14,4 @@ while(1):
 
 #chiusura della finestra
 cv2.destroyAllWindows()
+
